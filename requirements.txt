@@ -1,3 +1,5 @@
 coverage
 pylint
 autopep8
+fastapi
+uvicorn
