@@ -3,3 +3,4 @@ pylint
 autopep8
 fastapi
 uvicorn
+psycopg2
